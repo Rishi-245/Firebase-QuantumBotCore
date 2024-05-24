@@ -4,8 +4,8 @@
 Our project aims to create a seamless and efficient system using Firebase as the backend, incorporating essential npm dependencies for streamlined development. The purpose is to address the critical need for communication through messages by leveraging the power of Firebase, ensuring scalability and reliability. Key features include a user-friendly interface, seamless functionality, and robust security measures.
 
 ## Technologies Used
-Firebase
-NPM Dependencies
+Firebase &
+NPM Dependencies &
 Postman
 
 ## Installation
